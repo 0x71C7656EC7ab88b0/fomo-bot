@@ -21,9 +21,9 @@ from telegram import Update, Bot
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ====================== CONFIG ======================
-TELEGRAM_BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
-TELEGRAM_CHAT_ID   = "PASTE_YOUR_CHAT_ID_HERE"
-FOMO_API_KEY       = "PASTE_YOUR_FOMOAPI_KEY_HERE"
+TELEGRAM_BOT_TOKEN = "8614935045:AAFuhV6h0n1Y9t9sDRwYMjGkGgMMhDuZGrE"
+TELEGRAM_CHAT_ID   = "8289119087"
+FOMO_API_KEY       = "fapi_0ea7e2bbdea548c594751d2f90199fc67507440494d545e4b357e9b3e1ad4f29"
 
 # Smart filters
 MIN_USD_VALUE      = 1200         # ignore small noise
